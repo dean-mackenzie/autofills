@@ -1,4 +1,4 @@
-Autofill scripts :)
+Autofill scripts
 
 Minified versions are located in the min/ folder and they have been
 minified and then "bookmarkletted", see here:
