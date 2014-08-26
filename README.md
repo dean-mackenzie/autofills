@@ -6,3 +6,6 @@ minified and then "bookmarkletted", see here:
 Minify: http://gpbmike.github.io/refresh-sf/
 
 jQuery Bookmarklet Generator: http://benalman.com/code/test/jquery-run-code-bookmarklet/
+
+Alternative:
+http://ted.mielczarek.org/code/mozilla/bookmarklet.html (thanks @matzarise)
