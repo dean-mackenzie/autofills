@@ -38,7 +38,7 @@ $.each(formValues, function(fieldSelector, inputValue) {
 // Give every passenger a unique name to avoid dupe passenger error
 var letters = 'abcdefghijkl';
 $.each($('input[id*="_firstName"]'), function(index, element) {
-  $(element).val('Test Passenger ' + letters[index]);
+  $(element).val('Test' + letters[index]);
 });
 
 // Create dates which represent the DoB for child and infant passegers
